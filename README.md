@@ -11,9 +11,10 @@ Fgrosses correction dax 1999
 
 ## II-	Indices
 #### A)	CAC40
-##### 1)	Bousorama
+#####   1) Bousorama
 
 #### B)	NASDAQ
+
 #### C)	DAX
 
 
