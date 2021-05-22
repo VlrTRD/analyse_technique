@@ -23,5 +23,5 @@ Fgrosses correction dax 1999
 #### a)	Gold
 #### b)	Silver
 
-## [III- FOREX](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
+## [III- FOREX](https://github.com/VlrTRD/analyse_technique/tree/FOREX)
 #### a)	Euro/USD
