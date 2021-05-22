@@ -19,7 +19,7 @@ Fgrosses correction dax 1999
 
 
 
-## III-	Autres
+## [III-	Autres](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
 #### a)	Tesla 
 #### b)	Gold
 #### c)	Silver
