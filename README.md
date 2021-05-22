@@ -9,7 +9,7 @@ Fgrosses correction dax 1999
 #### C)	ETH
 
 
-## [II-	Indices](https://github.com/VlrTRD/analyse_technique/blob/Indices)
+## [II-	Indices](https://github.com/VlrTRD/analyse_technique/tree/Indices)
 #### A)	CAC40
 #####   1) Bousorama
 
