@@ -1,10 +1,3 @@
-# Bienvenue sur la page du bitcoin
+# Bienvenue sur la page du Bitcoin
 
-## I- Weekly
-
-![image](https://github.com/VlrTRD/analyse_technique/blob/Cryptomonnaies/BTCUSD/Charts/22052021BTC.png)
-
-## I- Daily
-
-
-## I- Intraday
+Dans cette page nous étudierons le bitcoin / US Dollars
