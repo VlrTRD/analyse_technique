@@ -5,7 +5,7 @@
 
 
 ## I- Daily
-
+![image](https://github.com/VlrTRD/analyse_technique/blob/Cryptomonnaies/BTCUSD/22%2005%202021/Charts/BTCUSD_Daily.png)
 
 ## I- Intraday
 
