@@ -4,7 +4,7 @@
 ## I- Daily 
 
 Les vagues d'Elliott m'avaient permis d'anticiper la hausse spéctaculaire du Doge, de ce fait, je continu de baser mon analyse dessus 
-
+[Image](https://github.com/VlrTRD/analyse_technique/blob/Cryptomonnaies/DOGE/23-05-2021/Charts/Doge_Daily.png)
 
 ## II- Intraday 4h
 
