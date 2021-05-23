@@ -4,14 +4,14 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 ## [I- Cryptos](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies)
 
 Fgrosses correction dax 1999
-#### A)	BTCUSD
-#### B)	DOGE
-#### C)	ETH
+#### [A)	BTCUSD](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/BTCUSD)
+#### [B)	DOGE](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/DOGE)
+#### [C)	ETH](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/ETH)
 
 
 ## [II-	Indices](https://github.com/VlrTRD/analyse_technique/tree/Indices)
 #### A)	CAC40
-#####   1) Bousorama
+
 
 #### B)	NASDAQ
 
