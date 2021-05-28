@@ -7,6 +7,7 @@ Fgrosses correction dax 1999
 #### [A)	BTCUSD](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/BTCUSD)
 #### [B)	DOGE](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/DOGE)
 #### [C)	ETH](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/ETH)
+#### [D)	NANO](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/ETH)
 
 
 ## [II-	Indices](https://github.com/VlrTRD/analyse_technique/tree/Indices)
