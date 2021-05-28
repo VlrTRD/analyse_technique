@@ -1,3 +1,2 @@
-# Bienvenue sur la page du Bitcoin
+# Bienvenue sur la page du Nano
 
-Dans cette page nous étudierons le bitcoin / US Dollars : une cryptommonaie très volatile qui a atteind son top à environ 65 000$
