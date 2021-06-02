@@ -3,7 +3,6 @@ Ce contenu est fourni uniquement a but éducatif et informatif et dans le seul b
 Ce site n’est alors pas un conseil d’investissent et ne doit pas être interprété comme tel. Je décline toute responsabilité pour les erreurs, inexactitudes ou omissions et je ne garantis pas l’exactitude ou le caractère exacte des analyses, informations, figures graphiques et autres éléments présentés dans cette vidéo.
 ## [I- Cryptos](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies)
 
-Fgrosses correction dax 1999
 #### [A)	BTCUSD](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/BTCUSD)
 #### [B)	DOGE](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/DOGE)
 #### [C)	ETH](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/ETH)
@@ -27,3 +26,5 @@ Fgrosses correction dax 1999
 
 ## [III- FOREX](https://github.com/VlrTRD/analyse_technique/tree/FOREX)
 #### a)	Euro/USD
+
+## [IV- Autres](https://github.com/VlrTRD/analyse_technique/tree/Autres)
