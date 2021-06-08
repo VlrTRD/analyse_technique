@@ -20,9 +20,9 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 
 
 ## [III- Stocks](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
-#### a) Pétrole
+#### [a) Pétrole](https://github.com/VlrTRD/analyse_technique/tree/Stocks/P%C3%A9trole-WTI))
 #### b)	Gold
-#### [c)	Silver](https://github.com/VlrTRD/analyse_technique/tree/Stocks/P%C3%A9trole-WTI)
+#### c)	Silver
 
 ## [III- FOREX](https://github.com/VlrTRD/analyse_technique/tree/FOREX)
 #### a)	Euro/USD
