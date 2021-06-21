@@ -1,29 +1,20 @@
-# Messages début de prévention :
-Ce contenu est fourni uniquement a but éducatif et informatif et dans le seul but de présenter mes idées et concepts, sans aucune garanti de résultat.
-Ce site n’est alors pas un conseil d’investissent et ne doit pas être interprété comme tel. Je décline toute responsabilité pour les erreurs, inexactitudes ou omissions et je ne garantis pas l’exactitude ou le caractère exacte des analyses, informations, figures graphiques et autres éléments présentés dans cette vidéo.
-## [I- Cryptos](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies)
+# Bienvenu dans la branche dédiée à l'action AAPL
 
-Fgrosses correction dax 1999
-#### [A)	BTCUSD](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/BTCUSD)
-#### [B)	DOGE](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/DOGE)
-#### [C)	ETH](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/ETH)
-#### [D)	NANO](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/Nano)
+## I- Description du titre
+	APPLE INC. (AAPL) est une société spécialisée dans la conception, la fabrication et la vente de produits informatique et de support de musique
+ 
+ Son PDG actuel est Tim COOK
+ Market Cap :  167 milliards de dollars
+ 
+  Répartition du chiffre d'affaires d'Apple par activité :
+51,4 % téléphonie.
+29,8 % supports de musique.
+14,8 % ordinateurs.
+2,2 % services informatiques, internet.
+1,8 % matériel informatiques.
 
-
-## [II-	Indices](https://github.com/VlrTRD/analyse_technique/tree/Indices)
-#### A)	CAC40
-
-
-#### B)	NASDAQ
-
-#### C)	DAX
+## II- News
 
 
 
-## [III- Stocks](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
-#### a) Pétrole
-#### b)	Gold
-#### c)	Silver
 
-## [III- FOREX](https://github.com/VlrTRD/analyse_technique/tree/FOREX)
-#### a)	Euro/USD
