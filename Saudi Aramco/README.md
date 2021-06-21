@@ -1,10 +1,10 @@
-# Bienvenu dans la branche dédiée à l'action SAUDI ARABIAN OIL CO
+# Bienvenu dans la branche dédiée à l'ETF SAUDI ARABIAN OIL CO
 
-## I- Description du titre
+## I- Description de l'ETF
 	
 ## II- News
 
-
+(oui il s'agit de l'ETF, car je n'ai pas trouvé le titre de saudi Aramco)
 
 
 
