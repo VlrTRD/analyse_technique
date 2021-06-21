@@ -1,29 +1,3 @@
-# Messages début de prévention :
-Ce contenu est fourni uniquement a but éducatif et informatif et dans le seul but de présenter mes idées et concepts, sans aucune garanti de résultat.
-Ce site n’est alors pas un conseil d’investissent et ne doit pas être interprété comme tel. Je décline toute responsabilité pour les erreurs, inexactitudes ou omissions et je ne garantis pas l’exactitude ou le caractère exacte des analyses, informations, figures graphiques et autres éléments présentés dans cette vidéo.
-## [I- Cryptos](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies)
+## Analyse Daily 
 
-Fgrosses correction dax 1999
-#### [A)	BTCUSD](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/BTCUSD)
-#### [B)	DOGE](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/DOGE)
-#### [C)	ETH](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/ETH)
-#### [D)	NANO](https://github.com/VlrTRD/analyse_technique/tree/Cryptomonnaies/Nano)
-
-
-## [II-	Indices](https://github.com/VlrTRD/analyse_technique/tree/Indices)
-#### A)	CAC40
-
-
-#### B)	NASDAQ
-
-#### C)	DAX
-
-
-
-## [III- Stocks](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
-#### a) Pétrole
-#### b)	Gold
-#### c)	Silver
-
-## [III- FOREX](https://github.com/VlrTRD/analyse_technique/tree/FOREX)
-#### a)	Euro/USD
+![AAPL_Daily](https://user-images.githubusercontent.com/84625531/122771734-fb73b380-d2a6-11eb-9574-cabf25c65c84.png)
