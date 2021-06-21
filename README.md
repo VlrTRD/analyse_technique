@@ -17,14 +17,18 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 
 #### C)	DAX
 
+## [III- Actions](https://github.com/VlrTRD/analyse_technique/tree)
 
 
-## [III- Matières](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
+## [IV- Matières](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
+### A- Matière Première Energétique
 #### [a) Pétrole](https://github.com/VlrTRD/analyse_technique/tree/Stocks/P%C3%A9trole-WTI)
-#### b)	Gold
-#### c)	Silver
 
-## [III- FOREX](https://github.com/VlrTRD/analyse_technique/tree/FOREX)
+### B- Métaux précieux
+#### a)	Gold
+#### b)	Silver
+
+## [V- FOREX](https://github.com/VlrTRD/analyse_technique/tree/FOREX)
 #### a)	Euro/USD
 
-## [IV- Autres](https://github.com/VlrTRD/analyse_technique/tree/Autres)
+## [VI- Autres](https://github.com/VlrTRD/analyse_technique/tree/Autres)
