@@ -21,7 +21,8 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 
 ### A- Top 5 Market CAP (plus de 1500 milliards)
 #### a) Apple
-#### b) Saudi Aramco
+#### b) MSCI Saudi arabia ETF 
+(oui je me suis trompé j'ai pris l'ETF)
 #### c) Microsoft
 #### d) Amazon
 #### e) Alphabet
