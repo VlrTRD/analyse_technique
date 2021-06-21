@@ -19,6 +19,15 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 
 ## [III- Actions](https://github.com/VlrTRD/analyse_technique/tree)
 
+### A- Top 5 Market CAP (plus de 1500 milliards)
+#### a) Apple
+#### b) Saudi Aramco
+#### c) Microsoft
+#### d) Amazon
+#### e) Alphabet
+
+### B- MEME STOCKS
+
 
 ## [IV- Matières](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
 ### A- Matière Première Energétique
