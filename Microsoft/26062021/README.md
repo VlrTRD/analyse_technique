@@ -1,3 +1,3 @@
 ## Analyse Daily 
 
-![AAPL_Daily](https://user-images.githubusercontent.com/84625531/122771734-fb73b380-d2a6-11eb-9574-cabf25c65c84.png)
+![image](https://user-images.githubusercontent.com/84625531/123527526-c9b47f80-d6e0-11eb-9f60-4645c6b96fcd.png)
