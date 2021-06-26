@@ -1,4 +1,4 @@
-# Bienvenu dans la branche dédiée à l'action AAPL
+# Bienvenu dans la branche dédiée à l'action Amazone
 
 ## I- Description du titre
 
