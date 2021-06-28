@@ -27,7 +27,9 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 #### d) Amazon
 #### e) Alphabet
 
-### B- MEME STOCKS
+### B- MEME STOCK
+
+### C- Autre
 
 
 ## [IV- Matières](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
