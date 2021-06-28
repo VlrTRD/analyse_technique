@@ -17,7 +17,7 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 
 #### C)	DAX
 
-## [III- Actions](https://github.com/VlrTRD/analyse_technique/tree)
+## [III- Actions](https://github.com/VlrTRD/analyse_technique/tree/Actions)
 
 ### A- Top 5 Market CAP (plus de 1500 milliards)
 #### a) Apple
