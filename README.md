@@ -31,6 +31,7 @@ Ce site n’est alors pas un conseil d’investissent et ne doit pas être inter
 
 ### C- Autre
 
+#### a) AMD
 
 ## [IV- Matières](https://github.com/VlrTRD/analyse_technique/tree/Stocks)
 ### A- Matière Première Energétique
